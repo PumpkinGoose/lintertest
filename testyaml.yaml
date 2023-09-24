@@ -32,7 +32,7 @@ string1: |
  # sequence arraylist example
  - One
  - two
- - Three
+ -Three
 
   # another way of sequence  syntax example
   [one, two , three]
