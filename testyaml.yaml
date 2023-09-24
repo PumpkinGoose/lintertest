@@ -20,4 +20,4 @@ mysqldatabase:
   password: root
   something:
     - 'hello'
-    - 'world'
+    -'world'
